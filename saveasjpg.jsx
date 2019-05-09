@@ -2,7 +2,7 @@
 var layer_list = app.activeDocument.layers;
 var layer_length = layer_list.length;
 var input_name = app.activeDocument.name;
-var class_list = ["car", "fe", "fp", "car", "bi", "moto"];
+var class_list = ["man", "fe", "fp", "car", "bi", "moto"];
 var class_name = "";
 var flag = false;
 

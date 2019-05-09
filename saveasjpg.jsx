@@ -29,7 +29,7 @@ while(true){
 }
 
 if(flag){
-	var output_name = input_name.split('.')[0]+'_class_name_';
+	var output_name = input_name.split('.')[0]+'_'+class_name+'_';
 
 	layer_list.getByName('레이어 0').visible = false;
 
